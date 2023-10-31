@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+    padding: 15px;
+    cursor: pointer;
+}
+img {
+    width: 20px;
+}
+.imgss {
+    padding: 10px;
+}
+
+* {
+    font-weight: bold;
+}

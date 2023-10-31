@@ -1,0 +1,35 @@
+.container1 {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    background-color: red;
+}
+
+.logo {
+    width: 40px;
+    cursor: pointers;
+    padding-right: 45px;
+}
+.home {
+    padding: 10px;
+}
+.about {
+    padding: 10px;
+}
+.blogs {
+    padding: 10px;
+}
+.contact {
+    padding: 10px;
+}
+.feedback {
+    padding: 10px;
+}
+::placeholder {
+    color: black;
+}
+.logo1 {
+    width: 40px;
+    padding-left: 10px;
+    
+}

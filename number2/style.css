@@ -1,0 +1,57 @@
+.containter2 {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid rgb(163, 147, 147);
+    cursor: pointer;
+}
+.home {
+    transition: all 0.3s ease 0s;
+    padding: 15px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.home:hover {
+    background-color: rgb(49, 179, 84);
+    border-bottom: 2px solid darkgreen;
+}
+.blog {
+    transition: all 0.3s ease 0s;
+    padding: 15px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.blog:hover {
+    background-color: rgb(49, 179, 84);
+    border-bottom: 2px solid darkgreen;
+}
+.work {
+    transition: all 0.3s ease 0s;
+    padding: 15px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.work:hover {
+    background-color: rgb(49, 179, 84);
+    border-bottom: 2px solid darkgreen;
+}
+.resources {
+    transition: all 0.3s ease 0s;
+    padding: 15px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.resources.resources:hover {
+    background-color: rgb(49, 179, 84);
+    border-bottom: 2px solid darkgreen;
+}
+.meta {
+    transition: all 0.3s ease 0s;
+    padding: 15px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.meta:hover {
+    background-color: rgb(49, 179, 84);
+    border-bottom: 2px solid darkgreen;
+}
+

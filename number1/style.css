@@ -1,0 +1,22 @@
+.containter1 {
+    background-color: rgb(120, 120, 184);
+    display: flex;
+    justify-content: end;
+    padding: 10px;
+    color: white;
+}
+.home {
+    padding: 10px;
+}
+.about {
+    padding: 10px;
+}
+.product {
+    padding: 10px;
+}
+.contact {
+    padding: 10px;
+}
+cursor {
+    cursor: pointer;
+}
